@@ -2,10 +2,8 @@ package com.gabrielbolea.dsvendas.services;
 
 import java.util.List;
 import java.util.stream.Collectors;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.gabrielbolea.dsvendas.dto.SellerDTO;
 import com.gabrielbolea.dsvendas.entities.Seller;
 import com.gabrielbolea.dsvendas.repositories.SellerRepository;
